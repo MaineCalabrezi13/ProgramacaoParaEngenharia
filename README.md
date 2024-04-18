@@ -8,6 +8,6 @@
 <h4>Aula 6: <a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2027.03">Exercicios para a prova</h4>
 <h4>Aula 7: Prova</h4>
 <h4>Aula 8: <a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2010.04">Estruturas de repetição</h4>
-<h4>Ayla 9: <a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2017.04">Estruturas de repetição exercícios</h4>
+<h4>Aula 9: <a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2017.04">Estruturas de repetição exercícios</h4>
 
 
