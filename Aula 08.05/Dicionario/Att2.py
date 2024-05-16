@@ -1,16 +1,16 @@
+D={}
 
-D={
-    1 : 'Maine',
-    2 : 'Agnes',
-    3 : 'Gustavo',
-    4 : 'Augusto',
-}
-    
-excluir = int(input("Digite código para a exclusão do funcionário: "))
-    
+n = int(input("Quantos funcionários deseja cadastrar: "))
+
+for i in range(n):
+    cod = input("Digite código do funcionário: ")
+    nome = input("Digite nome do funcionário: ")
+    D.update({cod:nome})
+
+excluir = input("Digite código para a exclusão do funcionário: ")
 if excluir in D:
-    for indice, nome in D.items():
-        print(f"{indice}: {nome}")
-        break
-
-    
+    D.pop(excluir)
+else:
+    print("Código inexistente")
+ 
+print("Lista de funcionário atualizad: ",D)
