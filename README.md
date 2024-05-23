@@ -12,7 +12,8 @@
 <h4>Aula 10: <a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2024.04">Listas</h4>
 <h4>Aula 11: <a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2008.05">Tuplas e Dicionários em Python</h4>
 <h4>Aula 12: <a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2015.05">Revisão Listas, Tuplas e Dicionários</h4>
-<h4>Aula 13: <a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2022.05">Função<b><a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2022.05">Exercicios para a prova</b>h4>
+<h4>Aula 13: <a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2022.05">Função</a></h4><a href="https://github.com/MaineCalabrezi13/ProgramacaoParaEngenharia/tree/main/Aula%2022.05">Exercícios para a prova</a></p>
+
 
 
 
